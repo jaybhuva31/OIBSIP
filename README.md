@@ -28,7 +28,7 @@ Developed a machine learning model to predict product sales based on advertising
 
 ## Author
 
-Mahek Dhebariya
+Jay Bhuva 
 
 ## Internship
 
